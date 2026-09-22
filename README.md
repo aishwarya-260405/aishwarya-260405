@@ -44,4 +44,4 @@ A web-based application developed for renting home appliances, with user and sel
 ## 🌐 Connect With Me
 
 📧 **Email:** aishwarayarav@gmail.com  
-💼 **LinkedIn:** [Add your LinkedIn profile here]
+💼 **LinkedIn:** https://www.linkedin.com/in/aishwarya-ravi-16b83b364
