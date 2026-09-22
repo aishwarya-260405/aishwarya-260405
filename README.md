@@ -19,6 +19,7 @@ A real-time data-driven project focused on analysing air-quality data and predic
 A web-based application developed for renting home appliances, with user and seller functionality, product listings, rental requests, and backend database connectivity.
 
 **Tech:** React · Node.js · JavaScript
+
 ---
 
 ## 🛠 Skills & Tools
