@@ -14,12 +14,6 @@ A real-time data-driven project focused on analysing air-quality data and predic
 
 **Tech:** Python · Machine Learning · Pandas · APIs · Flask
 
-### AI Diet Expert System – Disease-Specific Diet Planner
-
-An AI-based expert system developed for personalized, disease-specific diet planning using health, lifestyle, dietary preferences, allergies, and food restrictions to generate tailored meal recommendations through a web application.
-
-**Tech:** Python · Flask · Pandas · Machine Learning
-
 ### Home Appliances Rental System
 
 A web-based application developed for renting home appliances, with user and seller functionality, product listings, rental requests, and backend database connectivity.
